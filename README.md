@@ -1,1 +1,1 @@
-# projeto-it
+# tecnicas-computacionais-refletindo-sobre-ia
